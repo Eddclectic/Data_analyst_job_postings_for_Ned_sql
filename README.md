@@ -46,7 +46,7 @@ SELECT
     
     
 
-![output_1](img_1\output_1.png)
+![output_1](img_1/output_1.png)
 *Table 1.0: Showing Data Analyst Jobs Published by Companies in the Netherlands*  
 
 
@@ -166,7 +166,7 @@ ORDER BY job_count, avg_salary DESC;
 
 ```
 
-![output_3](img_1\output_3.png)
+![output_3](img_1/output_3.png)
 *Table 1.2: Showing Average Yearly Salary for the Top Skills Required for Data Analyst Jobs in the Netherlands* 
 
 #### Insight
